@@ -1,9 +1,9 @@
 ## Hi, I'm Gabriel
-### Welcome to my GitHub profile! I am a passionate software developer with a strong interest in web and mobile technologies. I love creating efficient and scalable solutions that make a difference.
+### Welcome to my GitHub profile! I am a Front-End Developer.
 
 ### About Me
-💻 Coding Enthusiast: I enjoy working on both frontend and backend projects, with a particular interest in [insert specific areas of interest].
-🎓 Lifelong Learner: Continuously learning and improving my skills. Currently diving deeper into [insert current learning focus].
+💻 Coding Enthusiast: I enjoy working on both frontend projects, with a particular interest in [insert specific areas of interest].
+🎓 Lifelong Learner: Continuously learning and improving my skills. Currently diving deeper into Next.JS.
 🚀 Project Explorer: Always on the lookout for new and exciting projects. Feel free to check out my repositories and leave feedback.
 ### Connect with Me
 
