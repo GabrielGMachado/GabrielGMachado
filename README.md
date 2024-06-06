@@ -2,9 +2,9 @@
 ### Welcome to my GitHub profile! I am a Front-End Developer.
 
 ### About Me
-💻 Coding Enthusiast: I enjoy working on both frontend projects, with a particular interest in [insert specific areas of interest].
-🎓 Lifelong Learner: Continuously learning and improving my skills. Currently diving deeper into Next.JS.
-🚀 Project Explorer: Always on the lookout for new and exciting projects. Feel free to check out my repositories and leave feedback.
+💻 Coding Enthusiast: I am a young developer in my third year of high school with a focus on IT.<br/>
+🎓 Lifelong Learner: Continuously learning and improving my skills. Currently diving deeper into Next.JS.<br/>
+🚀 Project Explorer: Always on the lookout for new and exciting projects. Feel free to check out my repositories and leave feedback.<br/>
 ### Connect with Me
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
