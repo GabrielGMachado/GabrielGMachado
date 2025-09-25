@@ -1,24 +1,33 @@
-## Olá, eu sou o Gabriel  
-### Bem-vindo ao meu perfil no GitHub! Sou um Desenvolvedor Front-End.
+## Gabriel Gaelzer Machado  
 
-### Sobre Mim
-💻 **Entusiasta da Programação**: Sou um desenvolvedor com foco em **Next.js** e **C#**, com experiência prática em projetos reais.  
-🎓 **Aprendiz Contínuo**: Sempre buscando aprender mais e melhorar minhas habilidades.  
-🚀 **Explorador de Projetos**: Sempre em busca de novos desafios e projetos interessantes. Fique à vontade para conferir meus repositórios e deixar seu feedback!
+- **about me**  
+👋 Hey! My name is **Gabriel Gaelzer Machado**, I’m 18.  
+🎓 Currently studying **Software Engineering** and always learning by building personal projects.  
+🎮 Big fan of **anime** and music – they keep me inspired.  
+🥊 Practicing **Muay Thai**, because balance between mind and body matters.  
 
-### Conecte-se Comigo
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabriel_gaelzer/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielgmachado-199a06312/)  
+- **projects**  
+🚀 I like to build things to learn new stacks and test ideas.  
+💡 Check out my personal projects here on GitHub and feel free to drop a star or some feedback!  
 
-### Tecnologias e Ferramentas
+- **skills**  
+💻 Comfortable with **Next.js**, **TypeScript**, **MySQL** and **C# / ASP.NET Core**.  
+🔧 Always exploring new tools to improve as a developer.  
+
+- **contact**  
+📧 bielgaelzermachado@gmail.com 
+🌐 [LinkedIn](https://www.linkedin.com/in/gabrielgmachado-dev)  
+📸 [Instagram](https://www.instagram.com/gabriel_gaelzer/)  
+
+---
+
 <p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielGMachado&layout=compact)
