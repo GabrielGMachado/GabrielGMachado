@@ -15,7 +15,7 @@
 🔧 Always exploring new tools to improve as a developer.  
 
 - **contact**  
-📧 bielgaelzermachado@gmail.com 
+📧 bielgaelzermachado@gmail.com  
 🌐 [LinkedIn](https://www.linkedin.com/in/gabrielgmachado-dev)  
 📸 [Instagram](https://www.instagram.com/gabriel_gaelzer/)  
 
